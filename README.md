@@ -24,4 +24,6 @@ Through our partnership we were tasked with updating and increasing the efficien
 [www.horiseon.com](https://isaiahcapers.github.io/Horiseon-accessibility-refactor/)
 
 ## License
+Copyright (c) 2024 ZahApriendo
+
 Licensed under the [MIT](https://github.com/Isaiahcapers/Horiseon-accessibility-refactor/blob/main/LICENSE) license.
