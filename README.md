@@ -14,12 +14,6 @@ Through our partnership we were tasked with updating and increasing the efficien
 - Image Alt Attribute Implimentation
 - Descriptive Title and Navigation Menu
 
-## Badges
-
-![Static Badge](https://img.shields.io/badge/HTML-65.9%25-red)
-
-![Static Badge](https://img.shields.io/badge/CSS-34.1%25-purple)
-
 ## URL
 [www.horiseon.com](https://isaiahcapers.github.io/Horiseon-accessibility-refactor/)
 
@@ -27,3 +21,9 @@ Through our partnership we were tasked with updating and increasing the efficien
 Copyright (c) 2024 ZahApriendo
 
 Licensed under the [MIT](https://github.com/Isaiahcapers/Horiseon-accessibility-refactor/blob/main/LICENSE) license.
+
+## Badges
+
+![Static Badge](https://img.shields.io/badge/HTML-65.9%25-red)
+
+![Static Badge](https://img.shields.io/badge/CSS-34.1%25-purple)
