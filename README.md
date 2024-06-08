@@ -3,12 +3,16 @@
 ## Horiseon
 
 ![Screen Shot of Home page for Horiseon](./assets/images/Screenshot%202024-06-07%20231428.png)
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+**Horiseon is a marketing agency that excels in Search Engine Optimization, Reputation Management, and Social Media Marketing.**
+
+Through our partnership we were tasked with updating and increasing the efficiency of there exisiting code while also making it more accessible. 
+
+*Items Updated:*
+- HTML Core Structure
+- CSS Style Sheet Efficiency
+- Image Alt Attribute Implimentation
+- Descriptive Title and Navigation Menu
 
 ## Badges
 
